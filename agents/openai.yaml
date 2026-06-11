@@ -1,0 +1,4 @@
+display_name: Medical Review Manuscript Pipeline
+short_description: Draft, polish, audit, and prepare medical review manuscripts for journal submission.
+default_prompt: Use this skill to evaluate my medical review manuscript for SCI submission readiness, including structure, references, tables, figures, language, and pre-submission requirements.
+
